@@ -1,0 +1,24 @@
+{
+  "name": "mycours",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthurpeas/myscours.git"
+  },
+  "author": "Arthurpeas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthurpeas/myscours/issues"
+  },
+  "homepage": "https://github.com/Arthurpeas/myscours#readme",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
